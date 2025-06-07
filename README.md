@@ -48,7 +48,7 @@ Every part follows the same learning loop so you always know what’s coming nex
 ### Walk-through
 
 1. Create folder `c_course`.
-2. Add a **Makefile**:
+2. Create a new file, name it **Makefile**:
 
 ```make
 CFLAGS := -Wall -Wextra -std=c17 -g
